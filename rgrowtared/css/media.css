@@ -1,0 +1,2087 @@
+@media screen and (max-width: 1920px) {
+    .font_70 {
+        font-size: 55px;
+        font-family: 'gilroyextrabold';
+    }
+}
+
+@media screen and (max-width: 1722px) {
+    .about_scrol_nav ul {
+        width: 1602px;
+        z-index: 9;
+    }
+    .about_scrol_nav {
+        width: 100%;
+        overflow-x: scroll;
+        overflow-y: hidden;
+    }
+}
+
+@media screen and (max-width: 1680px) {
+    .headerLinksWrapper ul li a {
+        font-size: 16px;
+        padding: 52px 15px;
+    }
+    .stickyHeader .headerLinksWrapper ul li a {
+        font-size: 16px;
+        padding: 12px 15px;
+    }
+    .headerLinksWrapper ul li:last-child a {
+        padding: 10px 21px;
+    }
+    .logo_small img {
+        width: 250px;
+        transition: all ease-in-out 0.7s;
+    }
+    .logo_small_width img {
+        /*width: 200px;*/
+        /*  1-4-22 patel infra*/
+    }
+    .font_83 {
+        font-size: 73px;
+    }
+    .font_70 {
+        font-size: 60px;
+    }
+    .font_24 {
+        font-size: 22px;
+    }
+    .font_20 {
+        font-size: 18px;
+    }
+    .font_18 {
+        font-size: 17px;
+    }
+    .font_16 {
+        font-size: 15px;
+    }
+    .font_14,
+    .error {
+        font-size: 12px;
+    }
+    .expert_blocks_text p {
+        top: 13px;
+        left: 14px;
+    }
+    .milestone_wraper .slide_wraper {
+        padding: 0px 30px 110px 30px;
+    }
+    /*======= Event ======*/
+    .event_hover_Text_smal_img {
+        padding: 4% 20px 7.3% 10px;
+    }
+    /*======= Event ======*/
+    /*======= About ======*/
+    .responsive_scroll .font_18 {
+        font-size: 16px !important;
+    }
+    /*======= About ======*/
+    /*======= oprc ======*/
+    .our_updates_title {
+        padding: 8em 4em 0 7em;
+    }
+    .about_scrol_nav ul {
+        width: 1564px;
+        z-index: 9;
+    }
+    .about_scrol_nav {
+        width: 100%;
+        overflow-x: scroll;
+        overflow-y: hidden;
+    }
+    /*======= oprc ======*/
+    /*======= PCTHPL ======*/
+    #pcthplTabWrapper .font_30 {
+        font-size: 29px;
+    }
+    #pcthplTabWrapper .font_65 {
+        font-size: 57px;
+    }
+    #aboutProjectDetialsTab .selient_features_table .table>tbody>tr>td:nth-child(2) {
+        width: 14%;
+        font-family: 'Gilroy-Regular';
+    }
+    .font_50 {
+        font-size: 44px;
+    }
+    /*======= PCTHPL ======*/
+}
+
+@media screen and (max-width: 1600px) {
+    /*8-7-22 patelinfra*/
+    /*.headerLinksWrapper ul li a { 
+		font-size: 18px;
+	}*/
+    /*.stickyHeader .headerLinksWrapper ul li a {
+		font-size: 18px;
+	}*/
+    /*8-7-22 patelinfra*/
+    .milestone_wraper .slide_wraper {
+        padding: 0px 20px 110px 20px;
+    }
+    .second_section h1 {
+        padding: 65px 0 49px 0px;
+    }
+    .common_width a img {
+        padding: 14% 0 30px 0;
+    }
+    .footer_container {
+        width: 82%;
+    }
+    /*======= About ======*/
+    .cirtificate_width_one,
+    .cirtificate_width_two {
+        padding: 0 30px 0 0;
+    }
+    .swiper-slide-active .large_text {
+        font-size: 66px;
+    }
+    .responsive_scroll .font_18 {
+        font-size: 14px !important;
+    }
+    /*======= About ======*/
+    /*======= Event ======*/
+    .event_hover_Text_smal_img {
+        padding: 1% 20px 7.3% 10px;
+    }
+    /*======= Event ======*/
+    /*======= Gallery ======*/
+    .hover_Text p {
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        overflow: hidden;
+    }
+    /*======= Gallery ======*/
+}
+
+@media screen and (max-width: 1440px) {
+    .font_50 {
+        font-size: 36px;
+    }
+    .headerLinksWrapper ul li a {
+        font-size: 15px;
+        padding: 52px 12px;
+    }
+    .stickyHeader .headerLinksWrapper ul li a {
+        font-size: 15px;
+        padding: 12px 12px;
+    }
+    .stickyHeader .headerLinksWrapper ul li:last-child a {
+        padding: 10px 21px;
+    }
+    .home_slider_wraper {
+        height: 71vh;
+    }
+    .font_83 {
+        font-size: 68px;
+    }
+    .second_section h1 {
+        padding: 60px 0 30px 0px;
+    }
+    .common_width a img {
+        padding: 0 0 30px 0;
+    }
+    .milestone_wraper .slide_wraper {
+        padding: 0px 20px 110px 20px;
+    }
+    .milestone_wraper .swiper-button-next {
+        right: 45%;
+    }
+    .milestone_wraper .swiper-button-prev {
+        right: 45%;
+    }
+    .font_18 {
+        font-size: 16px;
+    }
+    .font_16 {
+        font-size: 14px;
+    }
+    .new_line {
+        padding: 12px 20px;
+    }
+    .marquee_line {
+        padding: 12px 0;
+    }
+    /*================= Project & Servives ==================*/
+    /* .gallary_tab .nav>li>a {
+		padding: 20px 40px;
+	}
+	.projectservices_tab .nav-pills>li {
+		width: auto;
+		float: none;
+		display: inline-block;
+	}
+	.responsive_scroll .nav{
+		white-space: nowrap;
+		overflow-x:scroll;
+		overflow-y:hidden;
+	} */
+    .responsive_scroll {
+        width: 100%;
+        /* position: relative; */
+        overflow-y: hidden;
+        overflow-x: scroll;
+        background: #626262;
+    }
+    .responsive_scroll ul {
+        width: 110%;
+        overflow: scroll;
+    }
+    .gallary_tab {
+        margin-top: -56px;
+    }
+    .projet_grid_titles p {
+        padding-right: 15px;
+    }
+    .project_grid_wraper {
+        width: 93%;
+    }
+    /*================= Project & Servives ==================*/
+    /*================= Contact ==================*/
+    .contact_container {
+        width: 80%;
+    }
+    /*================= Contact ==================*/
+    /*================= OPRC ==================*/
+    .OPRC_projectservices_tab .responsive_scroll ul {
+        width: 100%;
+    }
+    .table_wraper .table>tbody>tr>td {
+        font-size: 14px;
+    }
+    .selient_features_table .table>tbody>tr>td {
+        font-size: 14px;
+    }
+    .Our_Updates_table .table>tbody>tr>td {
+        font-size: 14px;
+    }
+    /*================= OPRC ==================*/
+    /*======= PCTHPL ======*/
+    #pcthplTabWrapper .font_30 {
+        font-size: 25px;
+    }
+    #pcthplTabWrapper .font_65 {
+        font-size: 50px;
+    }
+    #pcthplTabWrapper .about_section_wraper_cust {
+        padding: 40px 0 40px 0;
+    }
+    .font_40 {
+        font-size: 31px;
+    }
+    #pcthplTabWrapper .pcthpl_wraper_block {
+        padding: 40px 0 40px 0;
+    }
+    /*======= PCTHPL ======*/
+}
+
+@media screen and (max-width: 1366px) {
+    .font_70 {
+        font-size: 44px;
+    }
+    .timeLineBox .swiper-slide {
+        padding: 11px 0px 17px 70px;
+    }
+    .font_83 {
+        font-size: 60px;
+    }
+    .font_20 {
+        font-size: 16px;
+    }
+    .ourclients {
+        margin-bottom: -18px;
+    }
+    .font_18 {
+        font-size: 15px;
+    }
+    .footer_main {
+        padding: 8.5% 0px;
+    }
+    .expert_blocks_text p {
+        width: 68%;
+    }
+    /*================= Project & Servives ==================*/
+    .gallery_text.pro_service_reff {
+        padding: 0 11em 3em 0;
+    }
+    .project_grid_wraper {
+        width: 100%;
+    }
+    /*================= Project & Servives ==================*/
+    /*================= Event ==================*/
+    .event_hover_Text_smal_img {
+        padding: 0% 20px 7.3% 10px;
+    }
+    /*================= Event ==================*/
+    /*================= Financial info ==================*/
+    .financial_bottom_text {
+        font-size: 20px;
+    }
+    /*================= Financial info ==================*/
+    /*================= OPRC ==================*/
+    .oprc_map {
+        height: 350px;
+    }
+    .our_updates_title {
+        padding: 6em 4em 0 7em;
+    }
+    /*================= OPRC ==================*/
+    /*======= PCTHPL ======*/
+    #pcthplTabWrapper .font_65 {
+        font-size: 44px;
+    }
+    #pcthplTabWrapper .font_30 {
+        font-size: 22px;
+    }
+    /*======= PCTHPL ======*/
+}
+
+@media screen and (max-width: 1280px) {
+    .text_section.rightAlign {
+        left: 60%;
+    }
+    .text_section {
+        width: 38%;
+    }
+    .text_section {
+        left: 2%;
+    }
+    .font_83 {
+        font-size: 55px;
+    }
+    .sub_menu_cust_width {
+        width: 187%;
+    }
+    .headerLinksWrapper ul li a {
+        padding: 51px 7px;
+    }
+    .headerLinksWrapper ul li:last-child a {
+        padding: 8px 16px;
+    }
+    .stickyHeader .headerLinksWrapper ul li a {
+        padding: 8px 7px;
+    }
+    .stickyHeader .headerLinksWrapper ul li:last-child a {
+        padding: 8px 16px;
+    }
+    .logo_small img {
+        width: 225px;
+        transition: all ease-in-out 0.7s;
+    }
+    .logo_small_width img {
+        width: 180px;
+    }
+    .home_slider_wraper .swiper-pagination-bullet {
+        width: 10px;
+        height: 10px;
+        margin: 6px 0;
+    }
+    .footer_main p a {
+        padding: 0px 0 2px 0;
+    }
+    /*================= Project & Servives ==================*/
+    .responsive_scroll ul {
+        width: 120%;
+    }
+    .gallery_text.pro_service_reff {
+        padding: 0 5em 3em 0;
+    }
+    .awarded_main_text h1 {
+        padding-top: 11%;
+    }
+    /*================= Project & Servives ==================*/
+    /*================= Event ==================*/
+    .event_hover_Text {
+        padding: 3.6% 20px;
+    }
+    .event_grid {
+        height: 23% !important;
+    }
+    .web_dropdown .nav>li:last-child a {
+        padding: 17px 18px;
+    }
+    /*================= Event ==================*/
+    /*================= Gallery ==================*/
+    .img_overlay {
+        height: 17%;
+    }
+    .gallery_text {
+        padding: 0 5em 0 0;
+    }
+    .gallary_scroll_nav {
+        width: 100%;
+        overflow-x: scroll;
+        overflow-y: hidden;
+    }
+    .gallary_scroll_nav ul {
+        width: 115%;
+    }
+    /*================= Gallery ==================*/
+    /*================= Events ==================*/
+    .event_scroll_nav {
+        width: 100%;
+        overflow-x: scroll;
+        overflow-y: hidden;
+    }
+    .event_scroll_nav.menu_overflow_none {
+        overflow: initial;
+    }
+    .event_scroll_nav ul {
+        width: 100%;
+    }
+    /*================= Events ==================*/
+    /*================= News & Media ==================*/
+    .news_blocks_wraper .news_text_content {
+        min-height: 260px;
+    }
+    .news_blocks_wraper {
+        padding: 3em 1em;
+    }
+    .news_blocks_wraper .news_text_content {
+        min-height: 200px;
+    }
+    .news_section_wraper {
+        padding: 10px 0;
+    }
+    .latest_articles .news_text_content {
+        /*8-1-22 patelinfra new*/
+        min-height: 100px;
+    }
+    .interviews video {
+        /*8-1-22 Patel infra new */
+        height: 150px;
+    }
+    /*================= News & Media ==================*/
+    /*================= OPRC ==================*/
+    .our_updates_title {
+        padding: 3.5em 4em 0 7em;
+    }
+    .project_section_wraper .about_section_wraper_cust {
+        padding: 100px 0 50px 0;
+    }
+    /*================= OPRC ==================*/
+    .left_numbers {
+        position: relative;
+        border-right: 0;
+        padding-right: 0;
+        width: 100%;
+        display: inline-block;
+        border-right: 0;
+        width: 100%;
+    }
+    .font_34 {
+        font-size: 26px;
+    }
+    .paddig_machines_strength_1,
+    .paddig_machines_strength_2,
+    .paddig_machines_strength_3 {
+        padding-left: 0;
+        text-align: center;
+    }
+    /*======= PCTHPL ======*/
+    #pcthplTabWrapper .font_30 {
+        font-size: 20px;
+    }
+    #pcthplTabWrapper .font_65 {
+        font-size: 46px;
+    }
+    .pcthpl_wraper_block .about_right_text_wrapper {
+        padding-bottom: 2em !important;
+        padding-top: 1.5em !important;
+    }
+    /*======= PCTHPL ======*/
+}
+
+@media screen and (max-width: 1152px) {
+    .font_50 {
+        font-size: 30px;
+    }
+    .font_83 {
+        font-size: 52px;
+    }
+    .sub_menu_hover {
+        left: 2%;
+        width: 125%;
+    }
+    .sub_menu_cust_width {
+        width: 187%;
+    }
+    .second_section h1 {
+        padding: 10px 0 20px 0px;
+    }
+    .font_16 {
+        font-size: 13px;
+    }
+    .font_18 {
+        font-size: 14px;
+    }
+    .milestone_wraper .slide_wraper {
+        padding: 0px 20px 110px 20px;
+    }
+    .milestone_wraper .swiper-button-next {
+        right: 43%;
+    }
+    .milestone_wraper .swiper-button-prev {
+        right: 43%;
+    }
+    .headerLinksWrapper ul li a {
+        font-size: 14px;
+    }
+    .stickyHeader .headerLinksWrapper ul li a {
+        font-size: 14px;
+    }
+    .milestone_wraper .swiper-slide h1 {
+        padding-bottom: 20px;
+    }
+    .milestone_wraper .swiper-slide .slide_wraper_text {
+        padding-bottom: 8px;
+    }
+    .milestone_wraper .slide_wraper {
+        padding: 0px 20px 90px 20px;
+    }
+    .milestone_section_bg {
+        padding: 180px 0 60px 0;
+    }
+    /*======== About ========*/
+    .swiper-slide-active .large_text {
+        font-size: 55px;
+    }
+    .timeline_text {
+        padding-bottom: 15px;
+    }
+    .font_22 {
+        font-size: 13px;
+    }
+    .grid_nav_text {
+        height: 115px;
+        padding: 0px 10px 0px 20px;
+        overflow: hidden;
+    }
+    /*======== About ========*/
+    /*================= Project & Servives ==================*/
+    .responsive_scroll ul {
+        width: 130%;
+    }
+    /*================= Project & Servives ==================*/
+    /*================= Contact ==================*/
+    .contact_container {
+        width: 100%;
+    }
+    /*================= Contact ==================*/
+    /*================= Financial info ==================*/
+    .financial_bottom_text {
+        font-size: 18px;
+        padding-top: 20px;
+    }
+    /*================= Financial info ==================*/
+    /*================= OPRC ==================*/
+    .our_updates_title {
+        padding: 5.5em 4em 0 7em;
+    }
+    .project_section_wraper .about_section_wraper_cust {
+        padding: 100px 0 40px 0;
+    }
+    .OPRC_projectservices_tab .about_left_text_wrapper {
+        padding: 3em 1em;
+    }
+    .oprc_contact_hr {
+        margin-bottom: 3em;
+    }
+    .table_wraper .table>tbody>tr>td {
+        font-size: 13px;
+    }
+    .Our_Updates_table .about_right_text_wrapper {
+        padding: 2em 0;
+    }
+    .our_updates_title_new {
+        padding: 7px 0 0 0;
+    }
+    .Our_Updates_table .table>tbody>tr>td:nth-child(3),
+    .Our_Updates_table .table>tbody>tr>th:nth-child(3) {
+        width: 42%;
+    }
+    .Our_Updates_table .table>tbody>tr>td {
+        font-size: 13px;
+    }
+    .Our_Updates_table .table>tbody>tr>th {
+        font-size: 14px;
+    }
+    .Our_Updates_table .table>tbody>tr>td {
+        padding: 14px 12px;
+    }
+    .padd_none_main {
+        overflow-x: scroll;
+    }
+    /*================= OPRC ==================*/
+    /*======= PCTHPL ======*/
+    #pcthplTabWrapper .font_30 {
+        font-size: 20px;
+    }
+    #pcthplTabWrapper .font_65 {
+        font-size: 42px;
+    }
+    .font_40 {
+        font-size: 25px;
+    }
+    /*======= PCTHPL ======*/
+}
+
+@media screen and (max-width: 1024px) {
+    .font_70 {
+        font-size: 30px;
+    }
+    .font_83 {
+        font-size: 46px;
+    }
+    .second_section .home_padd_1 {
+        padding-bottom: 9px;
+    }
+    .second_section h1 {
+        padding: 0px 0 12px 0px;
+    }
+    .font_20 {
+        font-size: 15px;
+    }
+    .common_width a {
+        height: 28vh;
+    }
+    .galleryColWrapper .cust_gallery_grid {
+        width: calc(100% / 3);
+    }
+    .awarded_pro_main_wraper .color_2 {
+        padding: 0 0 9px 0;
+    }
+    .awarded_pro_main_wraper .awared_title {
+        font-weight: bold;
+        padding: 15px 0 10px 0px;
+    }
+    .headerLinksWrapper ul li a {
+        padding: 45px 5px;
+        font-size: 12px;
+        /*8-7-22 patelinfra new*/
+    }
+    .stickyHeader .headerLinksWrapper ul li a {
+        padding: 8px 5px;
+        font-size: 12px;
+        /*8-7-22 patelinfra new*/
+    }
+    .logo_small img {
+        width: 180px;
+        transition: all ease-in-out 0.7s;
+    }
+    .logo_small_width img {
+        width: 170px;
+    }
+    .section_wraper_bottom {
+        padding: 15px 0;
+    }
+    .font_18 {
+        font-size: 13px;
+    }
+    .milestone_wraper .slide_wraper {
+        padding: 0px 10px 90px 10px;
+    }
+    .common_width a img {
+        padding: 0 0 18px 0;
+    }
+    .expert_blocks_text p {
+        top: 9px;
+        left: 10px;
+    }
+    /*================= Project & Servives ==================*/
+    .responsive_scroll ul {
+        width: 145%;
+    }
+    .section_wraper {
+        padding: 17px 0;
+    }
+    .gallary_tab {
+        margin-top: -30px;
+    }
+    /* 	.pro_grid_2 {
+		width: 40%;
+		float: left;
+		padding: 3px 6px 5px 5px;
+	}
+*/
+    /*================= Project & Servives ==================*/
+    /*================= Contact ==================*/
+    .contact_container h1 {
+        padding-top: 10px;
+    }
+    /*================= Contact ==================*/
+    .expert_section a .zoom_img {
+        top: 44%;
+        width: 35px;
+    }
+    .table_wraper .table>tbody>tr>td {
+        padding: 13px 8px;
+    }
+    .selient_features_table .table>tbody>tr>td {
+        padding: 13px 8px;
+    }
+    .selient_features_table .table>tbody>tr>td {
+        font-size: 13px;
+    }
+    .oprc_map {
+        height: 300px;
+    }
+    .for_tab_changes {
+        padding-bottom: 53px;
+    }
+    /*======= PCTHPL ======*/
+    #pcthplTabWrapper .font_65 {
+        font-size: 37px;
+    }
+    .pcthpl_wraper_block .about_right_text_wrapper {
+        padding-bottom: 2em !important;
+        padding-top: 0 !important;
+    }
+    #pcthplTabWrapper .about_section_wraper_cust {
+        padding: 30px 0 30px 0;
+    }
+    /*======= PCTHPL ======*/
+}
+
+@media screen and (max-width: 991px) {
+    .font_50 {
+        font-size: 24px;
+    }
+    .text_section {
+        /*position: absolute;
+		top: 17px;
+		transform: translateY(0);
+		width: 45%;
+		left: 20px;*/
+        transform: translateY(0);
+        position: relative;
+        width: 100%;
+        padding: 0 10px;
+        left: 0;
+    }
+    .text_section.rightAlign {
+        left: 0;
+    }
+    .about_right_text_wrapper {
+        width: 100%;
+    }
+    .display_main {
+        display: none;
+    }
+    .display_991 {
+        display: block;
+    }
+    .disply_block_991 {
+        display: block;
+    }
+    .display_767 {
+        display: none;
+    }
+    .clearfix-sm {
+        clear: both;
+    }
+    .section_wraper {
+        padding: 15px 0;
+    }
+    .expert_section .inner_cust_padd_1 {
+        display: inline-block;
+    }
+    .expert_section {
+        display: inline-block;
+        width: 100%;
+        padding-top: 25px;
+    }
+    .home_slider_wraper {
+        height: 60vh;
+    }
+    .font_70 {
+        font-size: 45px;
+    }
+    .milestone_wraper .swiper-button-next {
+        height: 20px;
+    }
+    .milestone_wraper .swiper-button-prev {
+        height: 20px;
+    }
+    /* .awarded_main_text h1 {
+		padding-top: 0;
+		padding-bottom: 35px;
+	} */
+    .awarded_main_text h1 {
+        padding-top: 14%%;
+    }
+    .milestone_section_bg {
+        padding: 150px 0 60px 0;
+    }
+    .footer_container {
+        width: 87%;
+    }
+    .common_width a {
+        width: 46%;
+    }
+    .logo_small img {
+        width: 180px;
+        transition: all ease-in-out 0.7s;
+    }
+    .logo_small_width img {
+        /*width: 170px;*/
+        /* 1-4-22 patel infra*/
+    }
+    /*================== mobile menu =======================*/
+    /* .mobile_active{	
+		background: rgba(235,117,37,01);
+		color: #000000 !important;
+		font-weight: bold;
+	} */
+    .mobile_active {
+        background: #f17422;
+        color: #ffffff !important;
+        font-weight: bold;
+    }
+    .navbar-default .navbar-collapse,
+    .navbar-default .navbar-form {
+        display: none !important;
+    }
+    .mobile_menu {
+        display: block;
+    }
+    .mobile_menu .btn-menu {
+        display: block;
+        border: 0;
+        width: 40px;
+        height: 25px;
+        background-color: transparent;
+        cursor: pointer;
+        position: absolute;
+        top: 7px;
+        right: -10px;
+        z-index: 9999;
+    }
+    .mobile_menu .btn-menu:focus {
+        outline: 0px dotted #E0AE19;
+    }
+    .mobile_menu .show_menu .btn-menu:focus {
+        outline: none;
+    }
+    .mobile_menu .btn-menu .text {
+        display: block;
+        text-indent: 150%;
+        white-space: nowrap;
+        overflow: hidden;
+    }
+    .mobile_menu .btn-menu .bar,
+    .mobile_menu .btn-menu .bar:before,
+    .mobile_menu .btn-menu .bar:after {
+        display: block;
+        position: absolute;
+        width: 30px;
+        height: 4px;
+        background-color: #000;
+        -webkit-transition: all 0.3s ease-in-out;
+        transition: all 0.3s ease-in-out;
+    }
+    .btn-menu .bar {
+        top: 10px;
+        left: 0;
+    }
+    .btn-menu .bar:before {
+        position: absolute;
+        content: '';
+        top: 10px;
+        left: 0;
+    }
+    .btn-menu .bar:after {
+        position: absolute;
+        content: '';
+        top: -10px;
+        left: 0;
+    }
+    .show .btn-menu .bar {
+        background-color: transparent;
+    }
+    .show .btn-menu .bar:before {
+        top: 0;
+        -webkit-transform: rotate(45deg);
+        transform: rotate(45deg);
+    }
+    .show .btn-menu .bar:after {
+        top: 0;
+        -webkit-transform: rotate(-45deg);
+        transform: rotate(-45deg);
+    }
+    .overlay {
+        background-color: rgba(0, 0, 0, 0.5);
+        transition: left 0.3s ease-in;
+        transition-delay: 1s;
+        top: 0;
+    }
+    .show .overlay {
+        width: 100%;
+        position: fixed;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.5);
+        transition: all ease-in-out 1s;
+        left: 0;
+    }
+    .show .mobile_menu nav {
+        width: 45%;
+        height: 100%;
+        left: 0px;
+        positiion: fixed;
+    }
+    .mobile_menu nav {
+        position: fixed;
+        top: 0px;
+        width: 45%;
+        height: 100%;
+        left: -100%;
+        transition: left 0.4s ease-in;
+        background-color: #fff;
+        box-shadow: 2px 0px 4px 2px rgba(0, 0, 0, 0.3);
+        transition: all ease-in-out 0.7s;
+    }
+    .mobile_menu nav ul {
+        list-style-type: none;
+        /* padding-left:20px; */
+        background-color: #fff;
+        transition: all 0.3s 0.2s ease-out;
+    }
+    .mobile_menu .show nav ul {
+        opacity: 1;
+        transform: translateX(0);
+    }
+    .mobile_menu nav a {
+        display: block;
+        width: 100%;
+        line-height: 42px;
+        text-decoration: none;
+        color: #626262;
+        text-align: left;
+        font-family: 'Gilroy-Regular';
+        position: relative;
+        padding-left: 20px;
+        text-transform: uppercase;
+        border-bottom: 1px solid #fff;
+    }
+    .mobile_menu .content {
+        background-color: #FFF;
+        height: 100%;
+        transition: all 0.7s ease-out;
+        padding: 30px;
+    }
+    .mobile_menu .show .content {
+        background-color: #000;
+        opacity: 0;
+    }
+    .mobile_menu .centered-content {
+        width: 500px;
+        margin: 0 auto;
+        padding: 30px;
+        border: 1px solid green;
+    }
+    a.logo_mobile {
+        display: inline-block;
+        width: 20% !important;
+        margin-left: 20px;
+    }
+    .logo_small_width a.logo_mobile {
+        display: inline-block;
+        width: 200px !important;
+        margin-left: 20px;
+        padding-top: 0px;
+        margin-bottom: 10px;
+    }
+    a.nav_mobile {
+        margin: 0 auto;
+        padding: 25px 0 15px 0;
+    }
+    .nav_mobile img {
+        width: 210px;
+    }
+    .slider_close {
+        right: 5px;
+        top: -33px;
+    }
+    .career_tab_panel .about_main_title:after {
+        left: 35%;
+        width: 30%;
+    }
+    .right_arrow_mo {
+        float: right;
+        padding-top: 12px;
+        padding-right: 15px;
+    }
+    .boder_bottom_mo_menu {
+        border-bottom: 1px solid #efefef !important;
+    }
+    .mainLeftMenu>ul>li.arrow.open>a:before {
+        content: "\f106";
+        font-family: "FontAwesome";
+        position: absolute;
+        top: 50%;
+        right: 15px;
+        transform: translateY(-50%);
+        -moz-transform: translateY(-50%);
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        -o-transform: translateY(-50%);
+    }
+    .mainLeftMenu>ul>li.arrow>a:before {
+        content: "\f107";
+        font-family: "FontAwesome";
+        position: absolute;
+        top: 50%;
+        right: 15px;
+        transform: translateY(-50%);
+        -moz-transform: translateY(-50%);
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        -o-transform: translateY(-50%);
+    }
+    .submenuText li {
+        width: 100% !important;
+        border-bottom: none !important;
+    }
+    .submenuText {
+        margin-left: 0px;
+        text-align: left;
+        padding-left: 0;
+        max-height: 0;
+        transition: max-height ease 0.3s;
+        -moz-transition: max-height ease 0.3s;
+        -webkit-transition: max-height ease 0.3s;
+        -ms-transition: max-height ease 0.3s;
+        -o-transition: max-height ease 0.3s;
+        overflow: hidden;
+    }
+    .submenuText li a {
+        padding-top: 5px !important;
+        padding-bottom: 5px !important;
+        padding-left: 40px !important;
+    }
+    .submenuText li:last-child {
+        left: 0;
+    }
+    .open .submenuText {
+        max-height: 400px;
+    }
+    .submenuText li a {
+        font-size: 13px;
+        line-height: 27px;
+    }
+    .submenuText li a.active,
+    .submenuText li a:hover {
+        background: #999;
+        color: #fff;
+        font-weight: bold;
+    }
+    .right_menu_content:hover .navtrigger-overlay span:before,
+    .right_menu_content:hover .navtrigger-overlay span:after {
+        background: #A6CD00;
+    }
+    /*================== mobile menu =======================*/
+    .home_slider_wraper .swiper-pagination {
+        right: -2.4%;
+    }
+    /*================= About ==================*/
+    .timeline_swiper_image {
+        width: 50%;
+    }
+    .swiper_text_content {
+        width: 50%;
+        padding-left: 30px;
+    }
+    .swiper_timeline_line {
+        width: 82%;
+        margin: 0px 9%;
+    }
+    .swiper_text_content h1 {
+        padding-bottom: 10px;
+    }
+    .cirtificate_width_one,
+    .cirtificate_width_two {
+        padding: 0 15px 0 15px;
+    }
+    .cirtificate_left_text_width_100 {
+        width: 100%;
+    }
+    .bod_main_title_text {
+        display: inline-block;
+        width: 100%;
+        padding: 0;
+    }
+    .bod_main_title_text h1 {
+        padding-bottom: 1.5%;
+    }
+    .directors_img_div,
+    .directors_img_div_key_management {
+        padding: 7px 7px;
+    }
+    /*================= About ==================*/
+    /*================= Project & Servives ==================*/
+    .pro_grid_1,
+    .pro_grid_2,
+    .pro_grid_3 {
+        width: 50%;
+        padding: 3.5px;
+    }
+    .responsive_scroll .font_18 {
+        font-size: 12px !important;
+    }
+    .responsive_scroll ul {
+        width: 1190px;
+    }
+    .gallary_tab {
+        margin-top: -25px;
+    }
+    .projectservices_title {
+        padding-top: 0em;
+        padding-bottom: 1em;
+    }
+    .gallery_text.pro_service_reff {
+        padding: 0 0em 0em 0;
+    }
+    /*================= Project & Servives ==================*/
+    /*================= Gallery ==================*/
+    .gallary_scroll_nav ul {
+        width: 1050px;
+    }
+    .cust_gallery_grid,
+    .events_grid_wraper .cust_gallery_grid/*8-1-22 patelinfra new */
+        {
+        width: 50%;
+    }
+    .cust_gallery_grid {
+        width: 50%;
+    }
+    .clearfix-md {
+        display: none;
+    }
+    .clearfix-sm {
+        display: block;
+    }
+    .gallery_blocks_wraper {
+        padding: 2em 0 0 0;
+    }
+    .gallaryheading_line {
+        padding-top: 0px;
+        padding-bottom: 10px;
+    }
+    .gallery_text {
+        padding: 0 0em 0 0;
+    }
+    .gallery_paragraph {
+        padding-bottom: 10px;
+    }
+    /*================= Gallery ==================*/
+    /*================= Events ==================*/
+    .events_title {
+        padding: 0em 0 2em 0;
+    }
+    .events_grid_wraper {
+        width: 100%;
+    }
+    .event_scroll_nav ul {
+        width: 1045px;
+    }
+    .event_scroll_nav.menu_overflow_none ul {
+        width: 100%;
+    }
+    .events_block_40 {
+        width: 50%;
+    }
+    .events_block_20 {
+        width: 25%;
+    }
+    .sm_block {
+        display: block;
+    }
+    .md_block {
+        display: none;
+    }
+    .breadcrumb {
+        bottom: -78px;
+    }
+    /*================= Events ==================*/
+    /*================= Career ==================*/
+    .career_button {
+        padding: 11px 35px;
+    }
+    /*================= Career ==================*/
+    /*================= Financial info ==================*/
+    .financial_title_text {
+        padding: 0;
+    }
+    .financial_title_text h1 {
+        padding-top: 0;
+    }
+    .our_strength {
+        padding-right: 0;
+        padding-top: 2%;
+    }
+    .font_34 {
+        font-size: 24px;
+    }
+    /*================= Financial info ==================*/
+    .for_tab_changes {
+        padding-bottom: 46px;
+        z-index: 99;
+    }
+    /*======= PCTHPL ======*/
+    #pcthplTabWrapper .font_65 {
+        font-size: 29px;
+    }
+    /*======= PCTHPL ======*/
+    /*================= dtrp ==================*/
+    .paddingtop60m {
+        padding-top: 60px;
+    }
+    .paddingtop25m {
+        padding-top: 25px;
+    }
+    /*================= dtrp ==================*/
+}
+
+@media screen and (max-width: 825px) {
+    .section_three_main_wraper .left-text {
+        padding: 0px 2.4% 1% 2.4%;
+    }
+    .section_three_main_wraper .Philosophy_div {
+        padding-left: 2.5%;
+    }
+    .section_three_main_wraper {
+        padding: 20px 0;
+    }
+    .text_block {
+        width: 100%;
+    }
+    .content_block {
+        width: 100%;
+    }
+    .common_width a {
+        width: 45%;
+        margin: 2.5%;
+    }
+    /*==================== About ===================*/
+    .about_right_text_wrapper {
+        padding: 1em 0;
+    }
+    .br_no_825 {
+        display: none;
+    }
+    /*==================== About ===================*/
+    .OPRC_projectservices_tab .about_left_text_wrapper {
+        padding: 1.4em 1em;
+    }
+    .our_updates_title {
+        padding: 0em 4em 0 7em;
+    }
+    .table_wraper {
+        overflow-x: scroll;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .home_slider_wraper {
+        height: 45vh;
+    }
+    .font_83 {
+        font-size: 33px;
+    }
+    .second_section h1 {
+        padding: 0px 0 5px 0px;
+    }
+    .expert_section {
+        padding-top: 15px;
+    }
+    .oprc_map {
+        height: 250px;
+    }
+    /*======= PCTHPL ======*/
+    #pcthplTabWrapper .font_65 {
+        font-size: 28px;
+    }
+    #aboutProjectDetialsTab .selient_features_table .table>tbody>tr>td:nth-child(2) {
+        width: 17%;
+    }
+    /*======= PCTHPL ======*/
+}
+
+@media screen and (max-width: 767px) {
+    .modal-dialog {
+        width: 94%;
+        margin: 13px;
+        top: 70px;
+    }
+    .galleryColWrapper .cust_gallery_grid {
+        width: calc(100% / 1);
+        padding: 15px;
+    }
+    .modal-body {
+        padding: 10px;
+    }
+    .timeLineBox .swiper-slide {
+        padding: 17px 0px 17px 70px;
+    }
+    .display_991 {
+        display: none;
+    }
+    .disply_block_991 {
+        display: none;
+    }
+    .display_767 {
+        display: block;
+    }
+    .logo_small img {
+        /*width: 150px;*/
+        width: 160px;
+        /* 1-4-22 patel infra*/
+        padding-top: 5px;
+    }
+    .expert_section .cust_padd_3 {
+        padding-right: 5px;
+    }
+    .mobile_menu .btn-menu {
+        top: 12px;
+    }
+    .expert_section .inner_cust_padd_2 {
+        padding-bottom: 5px;
+    }
+    .awarded_mobile_padd {
+        padding-bottom: 25px;
+    }
+    .mobile_menu_space {
+        margin-top: 20px;
+        text-align: center;
+    }
+    .footer_main ul {
+        text-align: center;
+    }
+    .footer_main p,
+    .footer_main h1 {
+        text-align: center;
+    }
+    /*================= About ==================*/
+    .about_left_text_wrapper {
+        padding: 1.5em 0em;
+    }
+    .about_section_wraper_cust {
+        padding: 125px 0 30px 0;
+    }
+    .about_section_wraper {
+        padding: 1em 0;
+    }
+    .csrpolicy_wraper .panel-title>a {
+        padding: 30px 15px 20px 0px;
+    }
+    /* .about_scrol_nav{
+		width:100%;
+		overflow-x:scroll;
+		overflow-y:hidden;
+	} */
+    /* .about_scrol_nav ul {
+		width: 714px;
+	} */
+    .none_br_420 {
+        display: none;
+    }
+    .about_right_text_wrapper {
+        /*width: 116%;*/
+        padding: 1em 0 1em 0;
+    }
+    .about_left_text_wrapper .col-sm-6,
+    .about_left_text_wrapper .link_padd {
+        padding: 0;
+        text-align: justify;
+    }
+    .about_left_text_wrapper {
+        padding: 1em 0em;
+    }
+    .about_paragraph {
+        padding-bottom: 10px;
+    }
+    .ongoing_pro_div {
+        padding: 20px 0 50px 0;
+    }
+    .ongoing_wraper {
+        padding-bottom: 0;
+    }
+    /*================= About ==================*/
+    /*================= Project & Servives ==================*/
+    .pro_grid_1,
+    .pro_grid_2,
+    .pro_grid_3 {
+        width: 100%;
+        padding: 4px;
+    }
+    .pull-right {
+        float: initial;
+    }
+    .mobile_float {
+        float: left !important;
+    }
+    .awarded_main_text h1 {
+        padding-top: 0;
+    }
+    .divider {
+        display: none;
+    }
+    /*================= Project & Servives ==================*/
+    /*================= News & Media ==================*/
+    .news_img_wraper img {
+        width: 100%;
+    }
+    .news_img_wraper {
+        padding-bottom: 25px;
+    }
+    .news_blocks_wraper {
+        padding: 1.5em 0em;
+    }
+    .news_blocks_wraper .news_text_content {
+        padding: 15px 10px;
+        min-height: auto;
+    }
+    .news_text_content .text_color {
+        text-align: justify;
+    }
+    /*================= News & Media ==================*/
+    /*================= Contact ==================*/
+    .map_div {
+        width: 100%;
+    }
+    .text_div {
+        position: relative;
+        width: 100%;
+        padding-top: 3%;
+        top: 0;
+        transform: translateY(0%);
+    }
+    .padding_top_second {
+        padding-top: 0;
+    }
+    .float_mo {
+        width: 50%;
+        float: left;
+    }
+    .pad_mo_1 {
+        padding-bottom: 7px;
+    }
+    /*================= Contact ==================*/
+    /*================= OPRC ==================*/
+    .oprc_contact_hr {
+        margin-bottom: 1em;
+    }
+    .padd_none_767 {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .our_updates_title {
+        padding: 0;
+    }
+    .OPRC_projectservices_tab .about_left_text_wrapper {
+        padding: 1.4em 3px;
+    }
+    .Our_Updates_table .about_right_text_wrapper {
+        padding: 1em 0;
+    }
+    .Our_Updates_table .about_right_text_wrapper {
+        width: 100%;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .Our_Updates_table .about_left_text_wrapper {
+        padding: 0em 15px 1em 15px;
+        padding-top: 0;
+    }
+    /*================= OPRC ==================*/
+    .left_right_0_padding {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .mobile_tab {
+        display: block;
+    }
+    .web_tab {
+        display: none;
+    }
+    .moblile_dropdown .nav-tabs>li {
+        width: 100%;
+    }
+    .moblile_dropdown .nav-tabs>li>a,
+    .moblile_dropdown .nav-tabs>li>a:focus {
+        outline: none;
+        border: none;
+        font-family: 'Gilroy-SemiBold';
+        border-radius: 0;
+        width: 100%;
+        text-align: left;
+        padding: 14px 10px;
+        background: #626262;
+        color: #fff;
+        text-transform: uppercase;
+    }
+    .moblile_dropdown .nav-tabs .dropdown-menu {
+        width: 100%;
+        padding: 5px 0px;
+        border-radius: 0;
+    }
+    .dropdown_down_icon {
+        position: absolute;
+        top: 50%;
+        right: 15px;
+        transform: translateY(-50%);
+        font-size: 24px;
+    }
+    .moblile_dropdown .dropdown-menu>li>a {
+        padding: 10px 15px;
+        font-family: 'Gilroy-SemiBold';
+    }
+    .moblile_dropdown .dropdown-menu>.active>a,
+    .dropdown-menu>.active>a:focus,
+    .dropdown-menu>.active>a:hover {
+        color: #fff;
+        background-color: #626262;
+        padding: 10px 15px;
+        font-family: 'Gilroy-SemiBold';
+    }
+    .breadcrumb {
+        display: none;
+    }
+    /*======= PCTHPL ======*/
+    #pcthplTabWrapper .font_30 {
+        font-size: 22px;
+    }
+    #pcthplTabWrapper .font_65 {
+        font-size: 30px;
+    }
+    #aboutProjectDetialsTab .selient_features_table .table>tbody>tr>td:nth-child(2) {
+        width: 13%;
+    }
+    /*======= PCTHPL ======*/
+    #pcthplTabWrapper .about_right_text_wrapper {
+        padding-left: 0;
+    }
+    #pcthplTabWrapper .font_30 {
+        font-size: 18px;
+    }
+    #pcthplTabWrapper .awarded_iframe_border {
+        width: 99%;
+    }
+    #pcthplTabWrapper .pcthpl_wraper_content_block {
+        position: relative;
+        top: 0;
+        right: 0;
+        width: 100%;
+        padding-left: 35px;
+        transform: initial;
+        padding: 20px 0 0 0;
+    }
+    #pcthplTabWrapper .pcthpl_wraper_block {
+        padding: 20px 0 20px 0;
+    }
+    #pcthplTabWrapper .text-center {
+        text-align: left;
+    }
+    #pcthplTabWrapper .about_left_text_wrapper {
+        padding: 1em 1em 0em 1em;
+    }
+    #pcthplTabWrapper .pcthpl_pading_block {
+        padding: 13px 0;
+        border: 0;
+    }
+    /*================= dtrp ==================*/
+    .paddingtop25m {
+        padding-top: 0px;
+    }
+    /*================= dtrp ==================*/
+}
+
+@media screen and (max-width: 700px) {
+    /* 	.none_700{
+		display:none;
+	} */
+    .image_section {
+        width: 100%;
+        float: none;
+        padding-top: 15px;
+    }
+    .text_section {
+        /*position: absolute;
+		top: 17px;
+		transform: translateY(0);
+		width: 45%;
+		left: 20px;*/
+        transform: translateY(0);
+        position: relative;
+        width: 100%;
+    }
+    .timeline_swiper_image img {
+        width: 100%;
+    }
+    .timeline_swiper_image {
+        width: 70%;
+        margin: 0 auto;
+    }
+    .swiper_text_content {
+        width: 100%;
+        padding-left: 0;
+        position: relative;
+        padding-top: 31px;
+        top: 0;
+        left: 0;
+        transform: translateY(0);
+        padding-right: 0;
+        right: initial;
+        text-align: center;
+    }
+    .about_right_text_wrapper {
+        /*	*/
+        padding: 1em 0 1em 0;
+    }
+    .timeline_text {
+        padding-bottom: 0;
+    }
+    /* .cirtificate_width_one, .cirtificate_width_two {
+		padding: 0 15px;
+		width:50%;
+	} */
+    /*=============== Event ===============*/
+    .events_block_20 {
+        width: 33.3%;
+    }
+    .events_block_40 {
+        width: 66.5%;
+    }
+    .clear_700 {
+        display: block;
+        clear: both;
+    }
+    #chitrakala_2015 .clearfix {
+        display: none;
+    }
+    .sm_block {
+        display: none;
+    }
+    .md_block {
+        display: block;
+    }
+    /*=============== Event ===============*/
+    .projects_wraper .about_right_text_wrapper,
+    .our_profile_div .about_right_text_wrapper {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .swiper-pagination.swiper-pagination-clickable.swiper-pagination-bullets {
+        display: none;
+    }
+    .expert_section .grayscale {
+        -webkit-filter: grayscale(0) brightness(1);
+        filter: grayscale(0) brightness(1);
+    }
+    .awarded_main_text h1 {
+        padding-bottom: 4%;
+    }
+    .home_slider_wraper {
+        height: 32vh;
+    }
+    .font_83 {
+        font-size: 27px;
+    }
+    .home_slider_wraper .swiper-pagination-bullet {
+        width: 8px;
+        height: 8px;
+    }
+    #loading-image {
+        width: 50%;
+    }
+    .nav_mobile img {
+        width: 185px;
+    }
+    .mobile_menu nav ul li a {
+        padding: 0px 20px;
+        text-align: left;
+        width: 100%;
+        position: relative;
+    }
+    .logo_small img {
+        /*width: 150px; */
+        width: 160px;
+        /* 1-4-22 patel infra*/
+        padding-top: 4px;
+    }
+    .home_slider_wraper .swiper-pagination {
+        right: -3%;
+    }
+    .home_slider_wraper .swiper-pagination-bullet {
+        width: 7px;
+        height: 7px;
+    }
+    /*================= Gallery ==================*/
+    .cust_gallery_grid,
+    .events_grid_wraper .cust_gallery_grid/*30-12-21 patelinfra new */
+        {
+        width: 100%;
+        padding: 8px 0;
+    }
+    .gallary_scroll_nav ul {
+        width: 1050px;
+    }
+    /*================= Gallery ==================*/
+    /*================= Financial info ==================*/
+    .financial_text {
+        padding-bottom: 35px;
+    }
+    .financial_grid {
+        width: 33.33%;
+    }
+    .display_550 {
+        display: block;
+        clear: both;
+    }
+    .none_550 {
+        display: none;
+    }
+    .icons_width {
+        width: 50%;
+        margin: 0 auto;
+        padding: 0 0 10% 0;
+    }
+    .financial_bottom_text {
+        font-size: 16px;
+    }
+    /*================= Financial info ==================*/
+    .OPRC_projectservices_tab .responsive_scroll ul {
+        width: 600px;
+    }
+    .directors_img_div,
+    .directors_img_div_key_management {
+        width: 33.3%;
+        padding: 5px 5px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .cirtificate_width_one,
+    .cirtificate_width_two {
+        width: 100%;
+    }
+    .swiper_timeline_line {
+        width: 70%;
+        margin: 0px 14.5%;
+    }
+    /* .expert_blocks_text p {
+		top: 20px;
+		left: 20px;
+	} */
+    .body_bg {
+        background-image: initial;
+        background-color: #fff;
+        /* new 1-4-22 patel infra*/
+        /* background-image: url('../images/logo_50_back.png');
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: contain;
+            background-attachment: fixed;*/
+        /*removed patelinfra*/
+    }
+    /*================== Event ===================*/
+    .events_block_20 {
+        width: 50%;
+    }
+    .events_block_40 {
+        width: 100%;
+    }
+    .clear_700 {
+        display: none;
+    }
+    .sm_block {
+        display: block;
+    }
+    .md_block {
+        display: none;
+    }
+    /*================== Event ===================*/
+    /*================== Contact ===================*/
+    .float_mo {
+        width: 100%;
+    }
+    .padding_top_second {
+        padding-top: 13px;
+    }
+    .padding_top_10 {
+        padding-top: 10px;
+    }
+    /*================== Contact ===================*/
+    .expert_section a .zoom_img {
+        width: 32px;
+    }
+    /*======= PCTHPL ======*/
+    #pcthplTabWrapper .font_30 {
+        font-size: 22px;
+    }
+    #pcthplTabWrapper .font_65 {
+        font-size: 27px;
+    }
+    #aboutProjectDetialsTab .selient_features_table .table>tbody>tr>td:nth-child(2) {
+        width: 20%;
+    }
+    #pcthplTabWrapper .about_section_wraper_cust {
+        padding: 20px 0 20px 0;
+    }
+    /*======= PCTHPL ======*/
+}
+
+@media screen and (max-width: 480px) {
+    .milestone_wraper .swiper-slide-next:before {
+        content: '';
+        height: 2px;
+        background: #dfdfdf;
+        width: 80%;
+        position: absolute;
+        top: -2px;
+        left: 10%;
+        text-align: center;
+        z-index: 999999;
+    }
+    .milestone_wraper .swiper-slide-active:before {
+        content: '';
+        height: 2px;
+        background: #F17422;
+        width: 80%;
+        position: absolute;
+        top: -2px;
+        left: 10%;
+        text-align: center;
+        z-index: 999999;
+    }
+    .milestone_wraper .swiper-slide-active {
+        border-top: 2px solid #DFDFDF;
+    }
+    .project_section_wraper .about_section_wraper_cust {
+        padding: 70px 0 40px 0;
+    }
+    .oprc_map {
+        height: 200px;
+    }
+    #pcthplTabWrapper .OPRC_projectservices_tab .about_left_text_wrapper {
+        padding: 20px 3px;
+    }
+    .margin_bott_0 {
+        margin-bottom: 0 !important;
+    }
+    #pcthplTabWrapper .padd_pcthpl_glance {
+        padding: 0 3px !important;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    .common_width a {
+        width: 84%;
+        margin: 6% 8% 2% 8%;
+    }
+    .clients_swiper_wraper {
+        padding: 2em 1em;
+    }
+    .show .mobile_menu nav {
+        width: 70%;
+    }
+    .mobile_menu .btn-menu {
+        top: 13px;
+    }
+    .mobile_menu nav {
+        width: 70%;
+    }
+    .milestone_wraper .swiper-button-next {
+        right: 39%;
+    }
+    .milestone_wraper .swiper-button-prev {
+        left: 39%;
+    }
+    .copy_rights h1 {
+        text-align: center;
+        float: none !important;
+        padding: 3px 0;
+    }
+    /* .width_100_mo{
+		width:100%;
+	} */
+    .milestone_wraper .slide_wraper {
+        padding: 0px 20px 90px 20px;
+    }
+    .expert_section .cust_padd_1,
+    .expert_section .cust_padd_2,
+    .expert_section .cust_padd_3 {
+        padding: 5px 5px;
+    }
+    .read_more_cuts_padd {
+        padding-bottom: 0;
+    }
+    .padd_left_mo {
+        padding-left: 18px;
+    }
+    .greyScaleImg {
+        filter: grayscale(0);
+        -webkit-filter: grayscale(0);
+    }
+    .new_line {
+        width: 85px;
+    }
+    .marquee_line {
+        width: calc(100% - 85px);
+    }
+    .second_section {
+        text-align: justify;
+        padding-bottom: 15px;
+    }
+    .second_section h1 {
+        padding: 0px 0 10px 0px;
+    }
+    .gallary_tab .nav>li>a {
+        padding: 12px 10px;
+    }
+    .copy_rights {
+        width: 100%;
+    }
+    /*============ About ============*/
+    /* 	.about_scrol_nav ul {
+		width: 600px;
+	} */
+    .csrpolicy_wraper .panel-body p {
+        text-align: justify;
+    }
+    .csrpolicy_wraper .panel-title>a {
+        line-height: 16px;
+    }
+    .about_section_wraper_cust {
+        padding: 105px 0 0px 0;
+    }
+    .cirtificate_width_one,
+    .cirtificate_width_two {
+        width: 50%;
+    }
+    .third_cirty_mo {
+        clear: both;
+        width: 50%;
+        margin: 0 25%;
+        padding: 0 15px;
+    }
+    .cirtificate_title {
+        padding-top: 10px;
+    }
+    .paginatio_timeline .swiper-button-next {
+        top: 39%;
+        width: 28px;
+        height: 28px;
+    }
+    .paginatio_timeline .swiper-button-prev {
+        top: 39%;
+        width: 28px;
+        height: 28px;
+    }
+    .swiper_timeline_line {
+        width: 100%;
+        margin: 0;
+    }
+    .timeline_swiper_image {
+        width: 100%;
+    }
+    .swiper-slide-active .cut_pagination:before {
+        width: 36px;
+        height: 36px;
+    }
+    .swiper_content_wrapper {
+        padding: 15px 15px 0px 15px;
+    }
+    .ongoing_wraper .col-md-2.col-sm-2,
+    .ongoing_wraper .col-md-4.col-sm-4 {
+        padding: 0;
+    }
+    /*============ About ============*/
+    /*============ Career ============*/
+    .career_mail {
+        padding-bottom: 25px;
+    }
+    /*============ Career ============*/
+    .banner_text.news_banner_text {
+        position: absolute;
+        width: 70%;
+        top: 50%;
+        left: 63%;
+        transform: translate(-60%, -50%);
+    }
+    /*============ Financial info ============*/
+    .financial_bottom_text {
+        padding-top: 0px;
+        padding-bottom: 20px;
+    }
+    .financial_grid {
+        width: 50%;
+    }
+    .display_550 {
+        display: none;
+    }
+    .none_550 {
+        display: block;
+    }
+    .mobile_clear {
+        clear: both;
+    }
+    .news_img_wraper .col-md-4.col-sm-4 {
+        padding: 0;
+    }
+    .news_sub_title {
+        padding-bottom: 0px;
+    }
+    /*============ Financial info ============*/
+    .add_scroll {
+        overflow-x: scroll;
+    }
+    .gallary_tab .nav-pills .li_border:after {
+        height: 18px;
+    }
+    /*======= PCTHPL ======*/
+    #pcthplTabWrapper .font_30 {
+        font-size: 22px;
+    }
+    #pcthplTabWrapper .font_65 {
+        font-size: 25px;
+    }
+    /*======= PCTHPL ======*/
+}
+
+@media screen and (max-width: 400px) {
+    /*======= PCTHPL ======*/
+    #pcthplTabWrapper .font_30 {
+        font-size: 20px;
+    }
+    #pcthplTabWrapper .font_65 {
+        font-size: 22px;
+    }
+    /*======= PCTHPL ======*/
+}
+
+@media screen and (max-width: 365px) {
+    .oprc_map {
+        height: 170px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .banner_text.news_banner_text {
+        left: 58%;
+    }
+    .event_grid {
+        height: 29% !important;
+    }
+    .font_83 {
+        font-size: 22px;
+    }
+    #aboutProjectDetialsTab .selient_features_table .table>tbody>tr>td:nth-child(2) {
+        width: 11%;
+    }
+    .margin_bott_0 {
+        margin-bottom: 10% !important;
+    }
+}
